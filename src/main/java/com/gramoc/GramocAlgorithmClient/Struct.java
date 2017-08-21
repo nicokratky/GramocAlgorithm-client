@@ -1,3 +1,4 @@
+package com.gramoc.GramocAlgorithmClient;
 /**
  *
  * JStruct:  The python struct library's port to java for reading and writing binary data as in python —  Copyright (C) 2016 Sohan Basak

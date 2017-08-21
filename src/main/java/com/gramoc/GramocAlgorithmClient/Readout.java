@@ -1,3 +1,5 @@
+package com.gramoc.GramocAlgorithmClient;
+
 public class Readout {
 
     private Client.CHANNELS channel;

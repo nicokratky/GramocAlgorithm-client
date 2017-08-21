@@ -1,3 +1,5 @@
+package com.gramoc.GramocAlgorithmClient;
+
 import org.json.JSONException;
 import org.json.JSONObject;
 
