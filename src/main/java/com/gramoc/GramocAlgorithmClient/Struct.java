@@ -13,11 +13,10 @@ package com.gramoc.GramocAlgorithmClient;
  */
 
 import java.io.ByteArrayInputStream;
-import java.lang.*;
 import java.nio.ByteOrder;
 import java.util.Arrays;
 
-import static java.lang.Math.*;
+import static java.lang.Math.abs;
 
 public class Struct {
     private short BigEndian = 0;
